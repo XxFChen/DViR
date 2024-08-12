@@ -1,0 +1,1 @@
+You need download the specific model(CLIP, DINOv2, SAM, CLIP-convnext) from the huggingface or other website.
